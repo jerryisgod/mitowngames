@@ -1,0 +1,45 @@
+{
+  "abis": ["armeabi-v7a", "arm64-v8a"],
+  "assets": [
+    {
+      "form": "/storage/emulated/0/脚本/BankAssistant",
+      "to": "/project"
+    }
+  ],
+  "buildDir": "build",
+  "build": {
+    "build_id": null,
+    "build_number": 0,
+    "build_time": 0
+  },
+  "useFeatures": [],
+  "icon": null,
+  "ignoredDirs": ["build"],
+  "encrypt-code": false,
+  "launchConfig": {
+    "displaySplash": true,
+    "hideAccessibilityServices": false,
+    "hideLauncher": false,
+    "hideLogs": true,
+    "stableMode": false,
+    "volumeUpcontrol": false,
+    "permissions": [],
+    "serviceDesc": "銀行腳本自動化操作。",
+    "splashIcon": null,
+    "splashText": ""
+  },
+  "libs": ["libjackpal-androidterm5.so", "libjackpal-termexec2.so"],
+  "main": "main.js",
+  "name": "Bank Assistant",
+  "outputPath": "/storage/emulated/0/脚本/BankAssistant/build",
+  "packageName": "com.script.autobank",
+  "projectDirectory": "/storage/emulated/0/脚本/BankAssistant",
+  "scripts": {},
+  "signingConfig": {
+    "alias": null,
+    "keystore": null
+  },
+  "sourcePath": "/storage/emulated/0/脚本/BankAssistant/main.js",
+  "versionCode": 1,
+  "versionName": "1.0.37"
+}
